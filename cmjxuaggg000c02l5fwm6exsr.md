@@ -10,8 +10,6 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1767416538959/ac437
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1765956103709/c630d247-7739-45c0-b4bf-fbf80b9846b0.png align="center")
-
 Java is familiar with data types and attempts to adapt both types of rational or equality expressions. There are situations where you tend to assign two variables with different data types, and the JVM attempts to mitigate this.
 
 `short a = 100;`  
